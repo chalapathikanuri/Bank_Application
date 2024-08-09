@@ -15,7 +15,8 @@ public class Main {
 		int evenOrOdd = Integer.parseInt(Config.checkEvenOrOdd);
 		CheckEvenOrOdd c1= new CheckEvenOrOdd();
 		c1.evenOrOdd(evenOrOdd);
-		
+		Palindrome p= new Palindrome();
+		p.palindromeNum(121);
 
 	}
 
