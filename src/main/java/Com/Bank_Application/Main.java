@@ -17,6 +17,8 @@ public class Main {
 		c1.evenOrOdd(evenOrOdd);
 		Palindrome p= new Palindrome();
 		p.palindromeNum(121);
+		ReverseNum r =new ReverseNum();
+		r.reverseNum(123);
 
 	}
 
